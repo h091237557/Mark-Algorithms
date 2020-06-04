@@ -1,5 +1,5 @@
 ---
-description: Amazon
+description: Amazon、Microsoft
 ---
 
 # Reverse Linked List

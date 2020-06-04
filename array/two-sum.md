@@ -1,5 +1,5 @@
 ---
-description: Amazon
+description: Amazon、Microsoft
 ---
 
 # Two Sum

@@ -1,5 +1,5 @@
 ---
-description: 注意、Amazon
+description: 注意、Amazon、Mircosoft
 ---
 
 # Count Primes
