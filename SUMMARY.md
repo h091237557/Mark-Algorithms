@@ -8,6 +8,7 @@
 * [Maximum Subtree](tree/maximum-subtree.md)
 * [Binary Tree Level Order Traversal](tree/binary-tree-level-order-traversal.md)
 * [Binary Tree Inorder Traversal](tree/binary-tree-inorder-traversal.md)
+* [Binary Tree Preorder Traversal](tree/binary-tree-preorder-traversal.md)
 * [Binary Tree Path Sum II](tree/binary-tree-path-sum-ii.md)
 * [Subtree of Another Tree](tree/subtree-of-another-tree.md)
 * [Diameter of Binary Tree](tree/diameter-of-binary-tree.md)
@@ -26,7 +27,10 @@
 * [optimalUtilization](array/optimalutilization.md)
 * [Sort Integers II](array/sort-integers-ii.md)
 * [Merge Intervals](array/merge-intervals.md)
+* [Merge Sorted Array](array/merge-sorted-array.md)
 * [Maximum Subarray](array/maximum-subarray.md)
+* [Remove Duplicates from Sorted Array](array/remove-duplicates-from-sorted-array.md)
+* [Longest Prefix of Array](array/longest-prefix-of-array.md)
 
 ## STRING
 
@@ -38,6 +42,9 @@
 * [First Unique Character in a String](string/first-unique-character-in-a-string.md)
 * [Valid Anagram](string/valid-anagram.md)
 * [Most Common Word](string/most-common-word.md)
+* [Find the Difference](string/find-the-difference.md)
+* [Minimum Moves](string/minimum-moves.md)
+* [Min Deletions To Obtain String in Right Format](string/min-deletions-to-obtain-string-in-right-format.md)
 
 ## LIST
 
@@ -47,6 +54,7 @@
 * [Flatten Binary Tree to Linked List](list/flatten-binary-tree-to-linked-list.md)
 * [Delete Node in a Linked List](list/delete-node-in-a-linked-list.md)
 * [Middle of Linked List](list/middle-of-linked-list.md)
+* [Remove Nth Node From End of List](list/remove-nth-node-from-end-of-list.md)
 
 ## GRAPH
 
@@ -61,10 +69,15 @@
 * [Rectangle Overlap](626.-rectangle-overlap.md)
 * [Prime Number of Set Bits in Binary Representation](prime-number-of-set-bits-in-binary-representation.md)
 * [Excel Sheet Column Title](excel-sheet-column-title.md)
+* [Excel Sheet Column Number](untitled.md)
 
 ## MATH
 
 * [Count Primes](math/count-primes.md)
 * [Dot Product](math/dot-product.md)
 * [Happy Number](math/happy-number.md)
+
+## Stream
+
+* [Moving Average from Data Stream](stream/moving-average-from-data-stream.md)
 
