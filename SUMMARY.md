@@ -45,6 +45,8 @@
 * [Find the Difference](string/find-the-difference.md)
 * [Minimum Moves](string/minimum-moves.md)
 * [Min Deletions To Obtain String in Right Format](string/min-deletions-to-obtain-string-in-right-format.md)
+* [Find Letter](string/find-letter.md)
+* [1819. Longest Semi Alternating Substring](string/1819.-longest-semi-alternating-substring.md)
 
 ## LIST
 
