@@ -1,3 +1,7 @@
+---
+description: 注意、Amazon
+---
+
 # String Compression
 
 [213. String Compression](https://www.lintcode.com/problem/string-compression/?_from=ladder&&fromId=59)

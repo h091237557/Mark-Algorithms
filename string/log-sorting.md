@@ -1,5 +1,5 @@
 ---
-description: + ( c++ 字串處理可從這題學不少 )
+description: 注意 ( c++ 字串處理可從這題學不少 )、Amazon
 ---
 
 # Log Sorting

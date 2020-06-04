@@ -1,5 +1,5 @@
 ---
-description: +
+description: 注意、Amazon
 ---
 
 # Count Primes
@@ -79,8 +79,6 @@ public:
 [參考資料](https://zh.wikipedia.org/wiki/%E5%9F%83%E6%8B%89%E6%89%98%E6%96%AF%E7%89%B9%E5%B0%BC%E7%AD%9B%E6%B3%95)
 
 > 先用2去篩，即把2留下，把2的倍數剔除掉；再用下一個質數，也就是3篩，把3留下，把3的倍數剔除掉；接下去用下一個質數5篩，把5留下，把5的倍數剔除掉；不斷重複下去......。
-
-![6c2771f752121cf3e3560606d62e6688.gif](evernotecid://D1A653E7-49A2-469A-973A-3DF99F4A2CBB/wwwevernotecom/13946419/ENResource/p3748)
 
 ```cpp
 class Solution {

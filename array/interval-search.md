@@ -1,3 +1,7 @@
+---
+description: Amazon
+---
+
 # Interval Search
 
 [1564. Interval Search](https://www.lintcode.com/problem/interval-search/?_from=ladder&&fromId=62)

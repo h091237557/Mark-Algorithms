@@ -1,3 +1,7 @@
+---
+description: Amazon
+---
+
 # Can Reach The Endpoint
 
 [1479. Can Reach The Endpoint](https://www.lintcode.com/problem/can-reach-the-endpoint/?_from=ladder&&fromId=59)

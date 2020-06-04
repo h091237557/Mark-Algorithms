@@ -1,3 +1,7 @@
+---
+description: 注意、Amazon
+---
+
 # Modern Ludo I
 
 [1565. Modern Ludo I](https://www.lintcode.com/problem/modern-ludo-i/?_from=ladder&&fromId=62)

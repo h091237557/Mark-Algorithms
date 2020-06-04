@@ -1,3 +1,7 @@
+---
+description: Amazon
+---
+
 # Second Max of Array
 
 [479. Second Max of Array](https://www.lintcode.com/problem/second-max-of-array/?_from=ladder&&fromId=59)

@@ -1,3 +1,7 @@
+---
+description: Amazon
+---
+
 # Number of Islands
 
 [433. Number of Islands](https://www.lintcode.com/problem/number-of-islands/description?_from=ladder&&fromId=15)

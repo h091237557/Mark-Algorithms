@@ -1,3 +1,7 @@
+---
+description: Amazon
+---
+
 # Subtree with Maximum Average
 
 [597. Subtree with Maximum Average](https://www.lintcode.com/problem/subtree-with-maximum-average/?_from=ladder&&fromId=78)

@@ -1,3 +1,7 @@
+---
+description: Amazon
+---
+
 # Reverse Linked List
 
 [35. Reverse Linked List](https://www.lintcode.com/problem/reverse-linked-list/?_from=ladder&&fromId=15)

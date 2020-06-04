@@ -1,3 +1,7 @@
+---
+description: Amazon
+---
+
 # Valid Parentheses
 
 [423. Valid Parentheses](https://www.lintcode.com/problem/valid-parentheses/description?_from=ladder&&fromId=15)

@@ -1,3 +1,7 @@
+---
+description: Amazon
+---
+
 # Dot Product
 
 [1480. Dot Product](https://www.lintcode.com/problem/dot-product/?_from=ladder&&fromId=59)

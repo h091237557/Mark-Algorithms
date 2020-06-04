@@ -1,3 +1,7 @@
+---
+description: Amazon
+---
+
 # Two Sum
 
 [56. Two Sum](https://www.lintcode.com/problem/two-sum/?_from=ladder&&fromId=15)

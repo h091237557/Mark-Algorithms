@@ -1,3 +1,7 @@
+---
+description: 注意、Amazon
+---
+
 # Closest Target Value
 
 [1478. Closest Target Value](https://www.lintcode.com/problem/closest-target-value/?_from=ladder&&fromId=59)

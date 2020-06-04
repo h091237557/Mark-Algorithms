@@ -1,5 +1,5 @@
 ---
-description: +
+description: 注意、Amazon
 ---
 
 # Prime Number of Set Bits in Binary Representation

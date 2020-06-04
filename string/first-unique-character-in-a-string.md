@@ -1,3 +1,7 @@
+---
+description: Amazon
+---
+
 # First Unique Character in a String
 
 [209. First Unique Character in a String](https://www.lintcode.com/problem/first-unique-character-in-a-string/?_from=ladder&&fromId=59)
