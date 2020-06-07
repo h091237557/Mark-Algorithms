@@ -31,6 +31,8 @@
 * [Maximum Subarray](array/maximum-subarray.md)
 * [Remove Duplicates from Sorted Array](array/remove-duplicates-from-sorted-array.md)
 * [Longest Prefix of Array](array/longest-prefix-of-array.md)
+* [Shuffle the Array](array/shuffle-the-array.md)
+* [The k Strongest Values in an Array](array/the-k-strongest-values-in-an-array.md)
 
 ## STRING
 
@@ -67,11 +69,11 @@
 
 ## OTHER
 
-* [Climbing Stairs II](climbing-stairs-ii.md)
-* [Rectangle Overlap](626.-rectangle-overlap.md)
-* [Prime Number of Set Bits in Binary Representation](prime-number-of-set-bits-in-binary-representation.md)
-* [Excel Sheet Column Title](excel-sheet-column-title.md)
-* [Excel Sheet Column Number](untitled.md)
+* [Climbing Stairs II](other/climbing-stairs-ii.md)
+* [Rectangle Overlap](other/626.-rectangle-overlap.md)
+* [Prime Number of Set Bits in Binary Representation](other/prime-number-of-set-bits-in-binary-representation.md)
+* [Excel Sheet Column Title](other/excel-sheet-column-title.md)
+* [Excel Sheet Column Number](other/untitled.md)
 
 ## MATH
 
@@ -82,4 +84,8 @@
 ## Stream
 
 * [Moving Average from Data Stream](stream/moving-average-from-data-stream.md)
+
+## Design & Data Struct
+
+* [Design Browser History](design-and-data-struct/design-browser-history.md)
 
