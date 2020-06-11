@@ -35,6 +35,8 @@
 * [The k Strongest Values in an Array](array/the-k-strongest-values-in-an-array.md)
 * [Coin Change](array/coin-change.md)
 * [Coin Change 2](array/coin-change-2.md)
+* [Sort Colors](array/sort-colors.md)
+* [Sort Colors II](array/sort-colors-ii.md)
 
 ## STRING
 
