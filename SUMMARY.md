@@ -94,4 +94,5 @@
 ## Design & Data Struct
 
 * [Design Browser History](design-and-data-struct/design-browser-history.md)
+* [Insert Delete GetRandom O\(1\)](design-and-data-struct/insert-delete-getrandom-o-1.md)
 
