@@ -1,3 +1,7 @@
+---
+description: 九章
+---
+
 # Insert Delete GetRandom O\(1\) - Duplicates allowed
 
 [954. Insert Delete GetRandom O\(1\) - Duplicates allowed](https://www.lintcode.com/problem/insert-delete-getrandom-o1-duplicates-allowed/description)
