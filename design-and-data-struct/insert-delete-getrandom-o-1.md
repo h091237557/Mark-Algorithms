@@ -4,7 +4,7 @@ description: 九章、Jane30
 
 # Insert Delete GetRandom O\(1\)
 
-Insert Delete GetRandom O\(1\)\]\([https://leetcode.com/problems/insert-delete-getrandom-o1/](https://leetcode.com/problems/insert-delete-getrandom-o1/)\)
+\[Insert Delete GetRandom O\(1\)\]\([https://leetcode.com/problems/insert-delete-getrandom-o1/](https://leetcode.com/problems/insert-delete-getrandom-o1/)\)
 
 #### 題目
 
