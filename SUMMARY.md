@@ -41,21 +41,21 @@
 ## STRING
 
 * [String Compression](string/string-compression.md)
-* [Longest Palindrome](string/627.-longest-palindrome.md)
 * [Longest Valid Parentheses](string/longest-valid-parentheses.md)
+* [Validate IP Address](string/validate-ip-address.md)
+* [Valid Anagram](string/valid-anagram.md)
 * [Valid Parentheses](string/valid-parentheses.md)
+* [Longest Palindrome](string/627.-longest-palindrome.md)
 * [Longest Palindromic Substring](string/longest-palindromic-substring.md)
 * [Palindromic Substrings](string/palindromic-substrings.md)
 * [Log Sorting](string/log-sorting.md)
 * [First Unique Character in a String](string/first-unique-character-in-a-string.md)
-* [Valid Anagram](string/valid-anagram.md)
 * [Most Common Word](string/most-common-word.md)
 * [Find the Difference](string/find-the-difference.md)
 * [Minimum Moves](string/minimum-moves.md)
 * [Min Deletions To Obtain String in Right Format](string/min-deletions-to-obtain-string-in-right-format.md)
 * [Find Letter](string/find-letter.md)
 * [Longest Semi Alternating Substring](string/1819.-longest-semi-alternating-substring.md)
-* [Validate IP Address](string/validate-ip-address.md)
 
 ## LIST
 
