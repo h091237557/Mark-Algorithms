@@ -56,6 +56,7 @@
 * [Min Deletions To Obtain String in Right Format](string/min-deletions-to-obtain-string-in-right-format.md)
 * [Find Letter](string/find-letter.md)
 * [Longest Semi Alternating Substring](string/1819.-longest-semi-alternating-substring.md)
+* [Making File Names Unique](string/making-file-names-unique.md)
 
 ## LIST
 
