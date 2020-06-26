@@ -37,6 +37,7 @@
 * [Coin Change 2](array/coin-change-2.md)
 * [Sort Colors](array/sort-colors.md)
 * [Sort Colors II](array/sort-colors-ii.md)
+* [Find the Duplicate Number](array/find-the-duplicate-number.md)
 
 ## STRING
 
