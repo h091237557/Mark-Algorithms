@@ -15,6 +15,7 @@
 * [Symmetric Binary Tree](tree/symmetric-binary-tree.md)
 * [Path Sum III](tree/path-sum-iii.md)
 * [Lowest Common Ancestor of a Binary Search Tree](tree/lowest-common-ancestor-of-a-binary-search-tree.md)
+* [Sum Root to Leaf Numbers](tree/sum-root-to-leaf-numbers.md)
 
 ## Array
 
