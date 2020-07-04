@@ -90,6 +90,9 @@
 * [Count Primes](math/count-primes.md)
 * [Dot Product](math/dot-product.md)
 * [Happy Number](math/happy-number.md)
+* [Ugly Number](math/ugly-number.md)
+* [Ugly Number II](math/ugly-number-ii.md)
+* [Super Ugly Number](math/super-ugly-number.md)
 
 ## Stream
 
