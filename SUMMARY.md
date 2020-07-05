@@ -93,6 +93,8 @@
 * [Ugly Number](math/ugly-number.md)
 * [Ugly Number II](math/ugly-number-ii.md)
 * [Super Ugly Number](math/super-ugly-number.md)
+* [Hamming Distance](math/hamming-distance.md)
+* [Total Hamming Distance](math/total-hamming-distance.md)
 
 ## Stream
 
