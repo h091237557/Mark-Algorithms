@@ -76,6 +76,7 @@
 * [Can Reach The Endpoint](graph/can-reach-the-endpoint.md)
 * [Modern Ludo I](graph/modern-ludo-i.md)
 * [Unique Paths II](graph/unique-paths-ii.md)
+* [Path with Maximum Probability](graph/path-with-maximum-probability.md)
 
 ## OTHER
 
