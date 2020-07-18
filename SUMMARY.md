@@ -77,6 +77,8 @@
 * [Modern Ludo I](graph/modern-ludo-i.md)
 * [Unique Paths II](graph/unique-paths-ii.md)
 * [Path with Maximum Probability](graph/path-with-maximum-probability.md)
+* [Course Schedule](graph/course-schedule.md)
+* [Course Schedule II](graph/course-schedule-ii.md)
 
 ## OTHER
 
